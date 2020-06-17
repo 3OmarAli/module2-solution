@@ -33,7 +33,7 @@ div .card1, .card2, .card3 {
 section p {
 	overflow: clear;
 	float: left;
-	padding: 25px 5px 0;
+	padding: 25px 5px 5px;
 	font-size: 20px;
 }
 
